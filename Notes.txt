@@ -1,0 +1,6 @@
+Pawns
+Can move 2 squares if they are at row two or row seven
+Can always move one square forward unless it is blocked
+Takes diagonally only if there is something there
+
+
